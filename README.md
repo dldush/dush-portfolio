@@ -1,2 +1,2 @@
-# vanillaJS-portfolio
-vanilla javascript portfolio page
+# dush-portfolio
+portfolio page
