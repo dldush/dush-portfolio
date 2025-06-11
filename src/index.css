@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Impact&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #c71f1a;
+  --color-secondary: #eeeeee;
+  --color-tertiary: #2f2f2f;
+  --font-impact: "Impact", sans-serif;
+}
+
+:root {
+  background: url("/images/background.jpeg") no-repeat center center fixed;
+}
