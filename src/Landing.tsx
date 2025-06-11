@@ -15,7 +15,7 @@ function Landing() {
             <img
               src="/images/profile.png"
               alt="profile"
-              className="absolute mt-175 w-[70%] h-[70%] object-cover z-20"
+              className="absolute mt-175 w-[clamp(50%,70vw,70%)] h-[clamp(50%,70vw,70%)] object-cover z-20"
             />
           </div>
           <div className="flex flex-row justify-between w-full z-10 px-27">
